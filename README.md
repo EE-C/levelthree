@@ -10,8 +10,11 @@ Level Three will begin as an experiment in my classroom originally, but released
 The original Aave Web3 case study document will include the following sections:
 
 History of Decentralized Finance (DeFi). 
+
 History of Aave. 
+
 What Aave’s product/s are. 
+
 How Aave is organised. 
 
 The case study starts in “DeFi Summer” 2020. Students are presented with the emergent conditions around yield farming and competitive token drops at the time. It explains how Aave successfully navigated this hyper-competitive environment, how Aave accomplished its progressive decentralisation and how Aave has expanded into areas such as decentralised social media with Lens. The case study includes a set of discussion questions toward the end that challenge them to imagine how Aave might evolve in the future, what products it might develop and what areas it might attempt to reinvent. The case uses Aave as a successful model students can emulate in order to prepare them for the Web3 industry (such as interviews, conferences, networking, etc.). 
