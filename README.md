@@ -1,5 +1,6 @@
 # levelthree
-![This is an image](https://anonfiles.com/V4vep2D5y1/Bright_Retro_Pop_Art_Music_Collection_Album_Cover_jpeg)
+![Bright Retro Pop Art Music Collection Album Cover](https://user-images.githubusercontent.com/84196983/196509773-c063f343-1f6d-4a8b-a612-1fe0a6ba99dc.jpeg)
+
 
 Level Three: Web3 Educational Case Studies is a repository of open source case studies to be used in University modules and courses. It begins with a case study of the Decentralized Finance (DeFi) protocol [Aave](https://aave.com//). 
 
