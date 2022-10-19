@@ -2,14 +2,14 @@
 
 ![196511438-a9649f8a-33b5-4554-b641-3def8899efd5_50](https://user-images.githubusercontent.com/84196983/196559053-6ecd017a-ad12-491b-b55d-beedb14ac3bc.png)
 
-![telegram-cloud-photo-size-4-5861822175500155313-x 1](https://user-images.githubusercontent.com/84196983/196646277-5627aee4-5443-401e-b1af-84b19b150487.png)
-
 
 **About the Project**
 
 Level Three will begin as an experiment in my classroom originally, but released on an [open source licence](https://github.com/polarpunklabs/levelthree/blob/main/LICENSE) here on GitHub for general use. The first case study will be an online document of on (DeFi) protocol [Aave](https://aave.com//). Over time, I hope to expand the range of case studies until there is a comprehensive set of educational resources for the Web3 industry going forward. Currently no such resources exist. 
 
 The original Aave Web3 case study document will include the following sections:
+
+![image 2](https://user-images.githubusercontent.com/84196983/196646556-346947c4-a7ac-4f93-93a2-9ff6eb44ee54.svg)
 
 History of Decentralized Finance (DeFi). 
 
