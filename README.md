@@ -37,5 +37,4 @@ My name is Dr. Paul Dylan-Ennis (better known in Web3 as polarpunklabs). I am a 
 
 [University Homepage](https://people.ucd.ie/paul.dylan-ennis)
 
-[Twitter](twitter.com/polarpunklabs)
-
+@polarpunklabs
