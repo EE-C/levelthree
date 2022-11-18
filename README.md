@@ -7,7 +7,7 @@
 
 **About the Project**
 
-Level Three will begin as an experiment in my classroom originally, but released on an [open source licence](https://github.com/polarpunklabs/levelthree/blob/main/LICENSE) here on GitHub for general use. The first case study will be an online document of on (DeFi) protocol [Aave](https://aave.com//). Over time, I hope to expand the range of case studies until there is a comprehensive set of educational resources for the Web3 industry going forward. Currently no such resources exist. 
+Level Three will begin as an experiment in my classroom originally, but released on an [open source  licence](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode) here on GitHub for general use. The first case study will be an online document of on (DeFi) protocol [Aave](https://aave.com//). Over time, I hope to expand the range of case studies until there is a comprehensive set of educational resources for the Web3 industry going forward. Currently no such resources exist. 
 
 The original Aave Web3 case study document will include the following sections:
 
